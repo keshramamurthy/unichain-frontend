@@ -1,0 +1,19 @@
+.btn-connect {
+    background-color: hotpink;
+    border: none;
+    /* border-top-left-radius: 9999px; */
+    /* border-bottom-left-radius: 9999px; */
+    cursor: pointer;
+    font-weight: 535;
+    font-size: 16px;
+    padding: 10px 12px;
+    border-radius: 4px;
+    margin-right: 13px;
+    color: white;
+}
+
+.swap {
+    border-radius: 6px;
+    padding-bottom: 400px;
+    padding-top: 20px;
+}
